@@ -1,0 +1,24 @@
+#pagetop {
+    text-align: center;
+}
+
+#container {
+    padding: 0;
+    margin: 0;
+	display: grid;
+	grid-gap: 20px;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+#person1, #person2, #person3, #person4, #person5, #person6, #person7, #person8, #person9 {
+    background-color: #ffffcc;
+    border: 1px solid #d0bfff;
+    border-radius: 30px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#pagebottom {
+	text-align: center;	
+}
+					  
