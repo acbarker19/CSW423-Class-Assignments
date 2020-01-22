@@ -1,5 +1,5 @@
 # CSW423 Class Assignments
- A repository containing multiple small projects created in my fourth web design class (CSW423) as the University of Mount Union.
+ A repository containing multiple small projects created in my fourth web design class (CSW423: Interaction Design) as the University of Mount Union.
 
 Some code is supplied by open source website templates found on the internet and modified by Alec Barker.
 
